@@ -81,7 +81,7 @@ The script is written in JavaScript and uses the following libraries:
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE). Use it at your own risk.
+This project is open-source and available under the [MIT License](license.txt). Use it at your own risk.
 
 ---
 
